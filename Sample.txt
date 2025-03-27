@@ -2,6 +2,5 @@ Task for the week:
  - Create Database
  - Add tables to the Database
  - Connect Java script to the Database
- - !!!!🐛🐛🐛🐛🐛🐛🐛🐛🐛 DELETE DATABASE!!!!
  - Have a meeting with the team
  - Review code
