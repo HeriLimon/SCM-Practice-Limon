@@ -4,3 +4,5 @@ Task for the week:
  - Connect Java script to the Database
  - Have a meeting with the team
  - Review code
+ - Make a GUI design
+ - Do a lot of work
